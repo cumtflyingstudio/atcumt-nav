@@ -1,6 +1,6 @@
 # 矿小航导航站/插件
-> README生成：Claud Sonnet 4.5
-> 网站部署：https://nav.atcumt.com，使用`nav-website2025`分支代码
+> README生成：Claud Sonnet 4.5  
+> 网站部署：[https://nav.atcumt.com](https://nav.atcumt.com)，使用`nav-website2025`分支代码
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d6b9fb9b-3546-43f0-8c95-cd6c0d939da0/deploy-status)](https://app.netlify.com/sites/wondrous-churros-ae57a8/deploys)
 
