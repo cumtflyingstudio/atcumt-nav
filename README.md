@@ -1,6 +1,6 @@
 # 矿小航导航站/插件
-> README生成：Claud Sonnet 4.5  
-> 网站部署：[https://nav.atcumt.com](https://nav.atcumt.com)，使用`nav-website2025`分支代码
+> README生成：Claud Sonnet 4.5
+> 网站部署：https://nav.atcumt.com，使用`nav-website2025`分支代码
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d6b9fb9b-3546-43f0-8c95-cd6c0d939da0/deploy-status)](https://app.netlify.com/sites/wondrous-churros-ae57a8/deploys)
 
@@ -17,43 +17,6 @@
 - 🔌 支持打包为浏览器插件
 
 ---
-
-## 项目结构
-
-```
-atcumt-main/
-├── public/                  # 静态资源
-│   └── index.html          # HTML 模板
-├── src/
-│   ├── assets/             # 资源文件
-│   │   ├── background/     # 背景图片/视频
-│   │   ├── css/           # 全局样式
-│   │   ├── ico/           # 图标文件
-│   │   └── svg/           # SVG 图标
-│   ├── components/         # Vue 组件
-│   │   ├── LoginPage.vue  # 登录页面（未启用）
-│   │   ├── Search.vue     # 搜索框组件
-│   │   ├── TagsBox.vue    # 标签网格组件
-│   │   ├── TimeBox.vue    # 时间显示组件
-│   │   └── UserBox.vue    # 用户设置组件
-│   ├── router/            # 路由配置
-│   │   └── index.js       # 路由定义
-│   ├── store/             # Vuex 状态管理
-│   │   └── index.js       # 全局状态
-│   ├── utils/             # 工具函数
-│   │   ├── helpers.js     # 辅助函数
-│   │   └── polyfills.js   # 兼容性补丁
-│   ├── App.vue            # 根组件
-│   └── main.js            # 应用入口
-├── scripts/
-│   └── build-plugin.mjs   # 插件打包脚本
-├── vue.config.js          # Vue CLI 配置
-├── jsconfig.json          # JS 编译配置
-└── package.json           # 项目配置
-```
-
----
-
 
 ## 快速开始
 
